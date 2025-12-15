@@ -1,0 +1,12 @@
+[package]
+name = "Nabidul's Calculator"
+version = "1.0.0"
+description = "A simple calculator webpage"
+# ... other package info
+
+[abilities]
+wasmer-static-webserver = "1.0.0"
+
+[command]
+command = "wasmer-static-webserver"
+args = ["--public-dir", "public"]
