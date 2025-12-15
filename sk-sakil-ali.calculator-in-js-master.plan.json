@@ -1,0 +1,5 @@
+{
+  "name": "calculator-in-js",
+  "entrypoint": "index.html",
+  "type": "static"
+}
